@@ -1,0 +1,41 @@
+# ==========================================
+# PicoCTF Labs - Git Ignore
+# ==========================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment Variables / Secrets
+.env
+*.env
+
+# Keys / Certificates
+*.key
+*.pem
+
+# Temporary Files
+*.tmp
+*.log
+*.swp
+
+# Downloaded PicoCTF Challenge Files
+downloads/
+challenge-files/
+
+# Private Solution Information
+flags.txt
+solutions-private.md
