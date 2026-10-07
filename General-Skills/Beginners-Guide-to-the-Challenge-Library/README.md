@@ -6,7 +6,7 @@
 | :--- | :--- |
 | **Category** | General Skills |
 | **Difficulty** | Beginner |
-| **Status** | In Progress |
+| **Status** | Completed |
 
 ---
 
