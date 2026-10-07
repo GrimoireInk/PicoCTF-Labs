@@ -118,15 +118,32 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 - PW Crack 4
     - You need to reuse the loop from PW Crack 3 
     - I was able to get it to work, indentation is extremely important and will cause this not to work if incorrect
+- PW Crack 5 
+    - **REVIEW CYNTAX FORMATTING AGAIN!**
+    - You need to make it loop **through** the Dictonary file
+        - ##  with open("dictionary.txt", "r") as f:
+        ## pos_pw_list = [line.strip() for line in f]
+- Enhanced!
+    - Zoom in and inspect the image file
+- Big Zip
+    - Use -ri to search all text files and subdirectories 
+    - Use the path of the folder to find it
+    - grep -ri "academy" ~/folder location/big-zip-files
+- Vault Door Training
+    - Carefully read through the Java code
+- Keygenme-py
+    - This one was quite tricky for me since I don't know much about Reverse Engineering 
+    - I followed this article: https://medium.com/@karimwalid/keygenme-py-picoctf-reverse-challenges-series-cae76e6a8a28
+    - I will need more practice with this later
+    - ## "The Low Level Binary Intro playlist is a great place to start learning Reverse Engineering and Binary Exploitation."
+- Buffer Overflow 0
+    - When you open the source code and the vuln file you learn that anything over 16 characters causes an overflow and it breaks the system, this gives you the flag
 
 ---
 
 ## Key Takeaways
 
-_To be completed after finishing the challenge._
-
----
-
-## Flag
-
-🚩 **Flag intentionally omitted from this public write-up.**
+- Opening every file can be EXTREMELY HELPFUL
+- **EXAMINE EVERYTHING**
+- You won't know everything, and that's ok! Learn as you go an think outside the box
+- Don't overthink it at first!
