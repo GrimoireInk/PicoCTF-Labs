@@ -20,8 +20,11 @@
         - Template for SSH: ssh username@remote_host
         - To add a non-default port do -p Port_Number
 
-
 - What's a Net Cat?
+    - Description: Using netcat (nc) is going to be pretty important. Can you connect to xebec.cylabacademy.net at port 45994 to get the flag?
+    
+    - nc tutorial
+    
     - Netcat (nc): a versatile command-line networking utility that reads and writes data across network connections using TCP or UDP protocols
     - nc [hostserver] [port]
         - **YOU DO NOT NEED -P FOR THIS COMMAND**
