@@ -8,6 +8,8 @@
     - Use the man command
         - a built-in terminal utility in Linux and Unix-like operating systems used to display the electronic documentation of commands, utilities, system calls, and configuration files
 
+---
+
 - Super SSH
     - Description: Using a Secure Shell (SSH) is going to be pretty important. Can you ssh as ctf-player to xebec.cylabacademy.net at port 26462 to get the flag? You'll also need the password fd7746b4. If asked, accept the fingerprint with yes. If your device doesn't have a shell, you can use: https://webshell.cylabacademy.org If you're not sure what a shell is, check out our Primer: https://primer.cylabacademy.org/#_the_shell
         - This has an Instance
@@ -20,11 +22,15 @@
         - Template for SSH: ssh username@remote_host
         - To add a non-default port do -p Port_Number
 
+---
+
 - What's a Net Cat?
     - Description: Using netcat (nc) is going to be pretty important. Can you connect to xebec.cylabacademy.net at port 45994 to get the flag?
     
     - nc tutorial
-    
+
     - Netcat (nc): a versatile command-line networking utility that reads and writes data across network connections using TCP or UDP protocols
     - nc [hostserver] [port]
         - **YOU DO NOT NEED -P FOR THIS COMMAND**
+
+---

@@ -58,17 +58,11 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 - Step 4: Ask 'What types of files are these?'
 - Step 5: Check endpoints, other links or services that you can access using the challenge description
 
-**Section 1: Sanity**
-- Obedient Cat
-    - Any hints about entering a command into the Terminal (such as the next one), will start with a '$'...everything after the dollar sign will be typed (or copy and pasted) into your Terminal
-    - To get the file accessible in your shell, enter the following in the Terminal prompt: $ wget and a link to the flag. The link can be copied from the details section
-- Super SSH
-    - Template for SSH: ssh username@remote_host
-    - To add a non-default port do -p Port_Number
-- What's a Net Cat?
-    - Netcat (nc): a versatile command-line networking utility that reads and writes data across network connections using TCP or UDP protocols
-    - nc [hostserver] [port]
-        - **YOU DO NOT NEED -P FOR THIS COMMAND**
+## 📚 Sections
+
+| Section | Documentation |
+| :--- | :--- |
+| Section 1: Sanity | [View Write-Up](./Section%201%3A%20Sanity) |
 
 **Section 2: CyberChef**
 - Mod 26
