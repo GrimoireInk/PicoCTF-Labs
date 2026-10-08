@@ -1,4 +1,5 @@
 **Section 1: Sanity**
+---
 
 - Obedient Cat
     - Description: "This file has a flag in plain sight (aka "in-the-clear") (flag)"
