@@ -65,31 +65,8 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 | Section 1: Sanity | [Section 1: Sanity](./Section%201%3A%20Sanity.md)
   Section 2: CyberChef | [Section 2: CyberChef](./Section%202%3A%20CyberChef.md)
 | Section 3 | [Section 3](./Section%203.md)
+  Section 4: Python | [Section 4: Python](./Section%204%3A%20Python.md)
 
-**Section 4: Python**
-- Python Wrangling
-    - You **NEED** to know how to run Python files in Terminal
-    - python3 [python file name]
-    - -d = decrypt
-    - -e = encyrpt
-- PW Crack 1
-    - Similar to Python Wrangling
-    - Open level1.py first and **READ CAREFULLY**
-- PW Crack 2
-    - Read level2.py 
-    - Hex characters - translate them
-- PW Crack 3
-    - I did guess and check, but I don't think that's correct 
-    - Bridget's Write Up "modify level_3_pw_check() function to include the list of passwords at the beginning of the function and iterate through them until the correct password that matches with the stored password is found"
-    - I couldn't get this to work correctly
-- PW Crack 4
-    - You need to reuse the loop from PW Crack 3 
-    - I was able to get it to work, indentation is extremely important and will cause this not to work if incorrect
-- PW Crack 5 
-    - **REVIEW CYNTAX FORMATTING AGAIN!**
-    - You need to make it loop **through** the Dictonary file
-        - ##  with open("dictionary.txt", "r") as f:
-        ## pos_pw_list = [line.strip() for line in f]
 - Enhanced!
     - Zoom in and inspect the image file
 - Big Zip
