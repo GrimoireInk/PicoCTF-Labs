@@ -64,23 +64,7 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 | :--- | :--- |
 | Section 1: Sanity | [Section 1: Sanity](./Section%201%3A%20Sanity.md)
   Section 2: CyberChef | [Section 2: CyberChef](./Section%202%3A%20CyberChef.md)
-
-**Section 3**
-- Wave a Flag
-    - Read through all lines of a file, CAREFULLY!
-- Tab, Tab, Attack
-    - My computer turned these into folders, is that meant to happen?
-- Insp3ct0r
-    - This flag is split into 3 parts
-    - Source code
-- Strings It
-    - strings -a strings | grep "academy"
-    - Looking at all the lines in the file then limiting the results to any lines with "academy" in them
-- First Grep
-    - Reused the previous Grep method from the previous CTF
-- Where are the Robots
-    - **DON'T LOOK INTO THE SOURCE CODE**
-    - Robot.txt
+| Section 3 | [Section 3](./Section%203.md)
 
 **Section 4: Python**
 - Python Wrangling
