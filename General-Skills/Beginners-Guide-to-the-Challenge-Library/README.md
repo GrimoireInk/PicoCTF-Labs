@@ -63,6 +63,7 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 | Section | Documentation |
 | :--- | :--- |
 | Section 1: Sanity | [Section 1: Sanity](./Section%201%3A%20Sanity.md)
+  Section 2: CyberChef | [Section 2: CyberChef](./Section%202%3A%20CyberChef.md)
 
 **Section 2: CyberChef**
 - Mod 26
