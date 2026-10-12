@@ -66,22 +66,7 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
   Section 2: CyberChef | [Section 2: CyberChef](./Section%202%3A%20CyberChef.md)
 | Section 3 | [Section 3](./Section%203.md)
   Section 4: Python | [Section 4: Python](./Section%204%3A%20Python.md)
-
-- Enhanced!
-    - Zoom in and inspect the image file
-- Big Zip
-    - Use -ri to search all text files and subdirectories 
-    - Use the path of the folder to find it
-    - grep -ri "academy" ~/folder location/big-zip-files
-- Vault Door Training
-    - Carefully read through the Java code
-- Keygenme-py
-    - This one was quite tricky for me since I don't know much about Reverse Engineering 
-    - I followed this article: https://medium.com/@karimwalid/keygenme-py-picoctf-reverse-challenges-series-cae76e6a8a28
-    - I will need more practice with this later
-    - ## "The Low Level Binary Intro playlist is a great place to start learning Reverse Engineering and Binary Exploitation."
-- Buffer Overflow 0
-    - When you open the source code and the vuln file you learn that anything over 16 characters causes an overflow and it breaks the system, this gives you the flag
+  Section 5 | [Section 5](./Section%205.md)
 
 ---
 
