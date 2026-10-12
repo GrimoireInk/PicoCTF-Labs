@@ -65,18 +65,6 @@ The goal of this challenge is to become familiar with PicoCTF challenge environm
 | Section 1: Sanity | [Section 1: Sanity](./Section%201%3A%20Sanity.md)
   Section 2: CyberChef | [Section 2: CyberChef](./Section%202%3A%20CyberChef.md)
 
-**Section 2: CyberChef**
-- Mod 26
-    - ROT13: a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet
-    - *Used CyberChef*
-- Warmed Up
-    - Base 16 = Hex
-    - From Hex To Decimal
-- 2warm
-    - From Decimal to Binary 
-- Bases
-    - Convert to Base 64
-
 **Section 3**
 - Wave a Flag
     - Read through all lines of a file, CAREFULLY!
