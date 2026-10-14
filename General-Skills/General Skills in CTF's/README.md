@@ -10,16 +10,6 @@ Some challenges overlap with activities I have already completed in the PicoCTF 
 
 ---
 
-## 🏆 Learning Path Progress
-
-| Challenge | Status | Write-Up |
-| :--- | :--- | :--- |
-| [Challenge Name] | ✅ Previously Completed | [View Original](../Challenge-Folder/README.md) |
-| [Challenge Name] | 🚧 In Progress | Pending |
-| [Challenge Name] | ⬜ Not Started | — |
-
----
-
 ## What I Learned
 
 - Katalyst
