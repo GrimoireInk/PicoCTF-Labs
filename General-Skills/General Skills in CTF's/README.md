@@ -8,8 +8,6 @@ This learning path focuses on strengthening foundational cybersecurity skills th
 
 Some challenges overlap with activities I have already completed in the PicoCTF Challenge Library. Rather than duplicating documentation, I'll link to my original write-up.
 
----
-
 ## What I Learned
 
 - Katalyst
@@ -17,8 +15,31 @@ Some challenges overlap with activities I have already completed in the PicoCTF 
     - This is very fun to play around with and honestly super cute as well
     - Very addictive 10/10
 - General Skills in CTF's I (Video)
+    - **Numbers**
+        - Binary Numbers: "There are 10 kinds of people in this world...those that understand binary and those who don't."
+        - What are Numbers?
+            - Numbers represent quantities - raw part
+            - Digits: 1,2,3,4,5...
+            - Base: Combinations of digits can mean something different depending on the base 
+        - Decimal = Base 10
+            - 10 Digits used to represent numbers 
+            - 0 through 9
+        - Binary = Base 2
+            - 1 Digits used to represnt numbers
+            - 0 and 1
+        - Example:
+            - 10 Base 10 = 1010 Base 2
+        - Decimal to Binary
+            - What is 110111 Base 2 in Base 10?
+                - 55
+            - Doing these by hand can be extremely tedious - CyberChef
+            
+            
+    - **Encodings**
+    - **PicoGym Problem Set 1**
+    - **The Shell**
+    - **PicoGym Problem Set 2**
     - 
-    - To add a non-default port do -p Port_Number
 - What's a Net Cat?
     - Netcat (nc): a versatile command-line networking utility that reads and writes data across network connections using TCP or UDP protocols
     - nc [hostserver] [port]
