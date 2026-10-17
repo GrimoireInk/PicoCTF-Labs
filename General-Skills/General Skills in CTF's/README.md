@@ -27,19 +27,28 @@ Some challenges overlap with activities I have already completed in the PicoCTF 
         - Binary = Base 2
             - 1 Digits used to represnt numbers
             - 0 and 1
+        - Octal = Base 8
+        - Hexadecimal = Base 16  
         - Example:
             - 10 Base 10 = 1010 Base 2
         - Decimal to Binary
             - What is 110111 Base 2 in Base 10?
                 - 55
             - Doing these by hand can be extremely tedious - CyberChef
-            
-            
-    - **Encodings**
+            - Radix is a synonym of Base 
+        - What is Encoding?
+            - Examples: 
+                 - SSN's = Person
+                 - Error Codes = Explanation 
+                 - ASCII = Keyboard Key
     - **PicoGym Problem Set 1**
+        - Let's Warm Up: 
+        - 2warm: https://github.com/GrimoireInk/PicoCTF-Labs/blob/main/General-Skills/Beginners-Guide-to-the-Challenge-Library/Section%202%3A%20CyberChef.md
+        - Warmed Up: https://github.com/GrimoireInk/PicoCTF-Labs/blob/main/General-Skills/Beginners-Guide-to-the-Challenge-Library/Section%202%3A%20CyberChef.md
+            
     - **The Shell**
     - **PicoGym Problem Set 2**
-    - 
+
 - What's a Net Cat?
     - Netcat (nc): a versatile command-line networking utility that reads and writes data across network connections using TCP or UDP protocols
     - nc [hostserver] [port]
