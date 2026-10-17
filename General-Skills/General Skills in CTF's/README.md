@@ -42,9 +42,7 @@ Some challenges overlap with activities I have already completed in the PicoCTF 
                  - Error Codes = Explanation 
                  - ASCII = Keyboard Key
     - **PicoGym Problem Set 1**
-        - Let's Warm Up: 
-        - 2warm: https://github.com/GrimoireInk/PicoCTF-Labs/blob/main/General-Skills/Beginners-Guide-to-the-Challenge-Library/Section%202%3A%20CyberChef.md
-        - Warmed Up: https://github.com/GrimoireInk/PicoCTF-Labs/blob/main/General-Skills/Beginners-Guide-to-the-Challenge-Library/Section%202%3A%20CyberChef.md
+        - [PicoGym Problem Set 1](https://play.picoctf.org/practice)
             
     - **The Shell**
     - **PicoGym Problem Set 2**
